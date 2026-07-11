@@ -134,8 +134,8 @@
 ## 🗂️ &nbsp;Инсайты
 
 <p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/bomjkee/bomjkee/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos per language"/>
-  <img width="49%" src="https://raw.githubusercontent.com/bomjkee/bomjkee/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="productive time"/>
+  <img width="49%" src="https://raw.githubusercontent.com/bomjkee/bomjkee/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos per language"/>
+  <img width="49%" src="https://raw.githubusercontent.com/bomjkee/bomjkee/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="productive time"/>
 </p>
 
 <p align="center">
